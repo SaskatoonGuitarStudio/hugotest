@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 date: 2020-02-29T17:02:27-06:00
-draft: true
+draft: false
 ---
 
 Saskatoon Guitar Studio

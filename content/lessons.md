@@ -1,7 +1,7 @@
 ---
 title: "Lessons"
 date: 2020-02-29T16:59:16-06:00
-draft: true
+draft: false
 ---
 
 
