@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Saskatoon Guitar Studio</title>
+    <title>Home on Saskatoon Guitar Studio</title>
     <link>https://saskatoonguitarstudio.github.io/hugotest/</link>
-    <description>Recent content on Saskatoon Guitar Studio</description>
+    <description>Recent content in Home on Saskatoon Guitar Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Feb 2020 14:50:44 -0600</lastBuildDate>
@@ -12,12 +12,25 @@
     
     
     <item>
-      <title>Home</title>
-      <link>https://saskatoonguitarstudio.github.io/hugotest/home/</link>
-      <pubDate>Sat, 29 Feb 2020 14:50:44 -0600</pubDate>
+      <title>Contact</title>
+      <link>https://saskatoonguitarstudio.github.io/hugotest/contact/</link>
+      <pubDate>Sat, 29 Feb 2020 17:02:27 -0600</pubDate>
       
-      <guid>https://saskatoonguitarstudio.github.io/hugotest/home/</guid>
-      <description>Home Welcome to the home of the Saskatoon Guitar Studio, the studio of Walter Hofmeister.</description>
+      <guid>https://saskatoonguitarstudio.github.io/hugotest/contact/</guid>
+      <description>Saskatoon Guitar Studio
+2200 block of Haultain Ave. (in Churchill Adelaide Park)
+Saskatoon
+306-343-9191
+email: info@saskatoonguitar.com</description>
+    </item>
+    
+    <item>
+      <title>Lessons</title>
+      <link>https://saskatoonguitarstudio.github.io/hugotest/lessons/</link>
+      <pubDate>Sat, 29 Feb 2020 16:59:16 -0600</pubDate>
+      
+      <guid>https://saskatoonguitarstudio.github.io/hugotest/lessons/</guid>
+      <description>The Lessons The lessons are private sessions that last 30 minutes each, once a week at the same appointed time. For music instruction, experience has proven that private lessons are the most effective, because each individual is able to work at his/her own speed and the courses can be tailored to each individual. As well supplemental material can be supplied to students who need more work in a particular area. The regular instruction season coincides with the school year: September until June.</description>
     </item>
     
     <item>
