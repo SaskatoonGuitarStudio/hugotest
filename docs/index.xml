@@ -1,23 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Test</title>
+    <title>Saskatoon Guitar Studio</title>
     <link>https://saskatoonguitarstudio.github.io/hugotest/</link>
-    <description>Recent content on Hugo Test</description>
+    <description>Recent content on Saskatoon Guitar Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Feb 2020 17:07:33 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 14:50:44 -0600</lastBuildDate>
     
 	<atom:link href="https://saskatoonguitarstudio.github.io/hugotest/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Home</title>
+      <link>https://saskatoonguitarstudio.github.io/hugotest/home/</link>
+      <pubDate>Sat, 29 Feb 2020 14:50:44 -0600</pubDate>
+      
+      <guid>https://saskatoonguitarstudio.github.io/hugotest/home/</guid>
+      <description>Home Welcome to the home of the Saskatoon Guitar Studio, the studio of Walter Hofmeister.</description>
+    </item>
+    
+    <item>
       <title>About</title>
-      <link>https://saskatoonguitarstudio.github.io/hugotest/pages/about/</link>
+      <link>https://saskatoonguitarstudio.github.io/hugotest/about/</link>
       <pubDate>Sat, 22 Feb 2020 17:07:33 -0600</pubDate>
       
-      <guid>https://saskatoonguitarstudio.github.io/hugotest/pages/about/</guid>
-      <description>Just a test to see how easy hugo is to use.</description>
+      <guid>https://saskatoonguitarstudio.github.io/hugotest/about/</guid>
+      <description>The Saskatoon Guitar Studio The Saskatoon Guitar Studio is operated by Walter Hofmeister since 1987. In that time Mr. Hofmeister has been one of Saskatoon’s most sought-after guitar teachers. He has taught hundreds of students and has 30 years of experience teaching almost every musical style and has taught all ages from pre-school children to senior citizens.
+Since graduating from the University of Saskatchewan with a Bachelor of Music degree in 1987, Mr.</description>
     </item>
     
   </channel>

@@ -1,5 +1,29 @@
 baseURL = "https://saskatoonguitarstudio.github.io/hugotest"
 languageCode = "en-us"
-title = "Hugo Test"
-theme = "ananke"
+title = "Saskatoon Guitar Studio"
+theme = "minimal"
 publishDir = "docs"
+
+[params]
+    accent = "gray"
+    showBorder = true
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 2
+
+[[menu.main]]
+    url = "/lessons/"
+    name = "Lessons"
+    weight = 3
+
+[[menu.main]]
+    url = "/contact/"
+    name = "Contact"
+    weight = 4
